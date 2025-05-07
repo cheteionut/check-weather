@@ -16,6 +16,7 @@ Notes:
   - the second argument is optional; you can provide your location (e.g. London) or if this argument is not provided the location will be checked based on your IP address
 
 2. docker build --no-cache -t NAME_IT .
+
    docker run -it NAME_IT [rain/shine] [London]
 
 Notes:
